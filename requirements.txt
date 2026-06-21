@@ -1,0 +1,6 @@
+# Core AI and Math Dependencies
+jax==0.4.23
+jaxlib==0.4.23
+numpy>=1.26.0
+scipy>=1.11.0
+matplotlib>=3.8.0
