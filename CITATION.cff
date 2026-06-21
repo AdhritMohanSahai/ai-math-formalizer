@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this AI framework or the mathematical operators in your research, please cite it as below."
+authors:
+  - family-names: "Sahai"
+    given-names: "Adhrit Mohan"
+    email: "vedanshoffical@gmail.com"
+title: "ai-math-formalizer: A Computational Framework for Asymptotic Growth and Logarithmic Curvature"
+date-released: 2026-06-21
+url: "https://github.com/AdhritMohanSahai/ai-math-formalizer"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sahai"
+      given-names: "Adhrit Mohan"
+  title: "Logarithmic Curvature as an Asymptotic Diagnostic: A Structural Framework for Growth Classification"
+  year: 2026
